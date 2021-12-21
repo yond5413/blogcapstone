@@ -3,3 +3,4 @@ Project allows a small company owner to create their own blog to build publicity
 
 ERD
 ![](./sql/blogdb.png)
+
