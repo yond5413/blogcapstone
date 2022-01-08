@@ -5,7 +5,7 @@
  */
 package com.cardealership.dao;
 
-import com.mthree.cardealership.entity.User;
+import com.cardealership.entity.User;
 import java.util.List;
 
 /**
