@@ -1,6 +1,6 @@
-package com.mthree.cardealership.dao;
+package com.cardealership.dao;
 
-import com.mthree.cardealership.entity.Vehicle;
+import com.cardealership.entity.Vehicle;
 import java.util.List;
 
 /*
