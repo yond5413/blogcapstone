@@ -24,4 +24,4 @@ public interface VehicleDao {
 
     /*Vehicle addVehicle(Vehicle vehicle);
     void updateVehicle(Vehicle vehicle);*/
-}
+} 
