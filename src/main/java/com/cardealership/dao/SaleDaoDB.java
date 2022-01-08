@@ -1,4 +1,4 @@
-package com.mthree.cardealership.dao;
+package com.cardealership.dao;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
