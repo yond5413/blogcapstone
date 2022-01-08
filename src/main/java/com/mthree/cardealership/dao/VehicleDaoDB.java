@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mthree.cardealership.dao;
+package com.cardealership.dao;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -15,7 +15,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
-import com.mthree.cardealership.entity.Vehicle;
+import com.cardealership.entity.Vehicle;
 
 /**
  *
