@@ -12,7 +12,7 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.mthree.cardealership.entity.Sale;
+import com.cardealership.entity.Sale;
 
 @Repository
 public class SaleDaoDB implements SaleDAO {
