@@ -5,7 +5,7 @@
  */
 package com.cardealership.dao;
 
-import com.mthree.cardealership.entity.User;
+import com.cardealership.entity.User;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
