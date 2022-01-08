@@ -1,14 +1,14 @@
-package com.mthree.cardealership.service;
+package com.cardealership.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mthree.cardealership.dao.SaleDAO;
-import com.mthree.cardealership.dao.UserDao;
-import com.mthree.cardealership.dao.VehicleDao;
-import com.mthree.cardealership.entity.Sale;
-import com.mthree.cardealership.entity.User;
-import com.mthree.cardealership.entity.Vehicle;
+import com.cardealership.dao.SaleDAO;
+import com.cardealership.dao.UserDao;
+import com.cardealership.dao.VehicleDao;
+import com.cardealership.entity.Sale;
+import com.cardealership.entity.User;
+import com.cardealership.entity.Vehicle;
 import java.util.ArrayList;
 import java.util.List;
 
