@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mthree.cardealership.dao;
+package com.cardealership.dao;
 
 import com.mthree.cardealership.entity.User;
 import java.sql.ResultSet;
