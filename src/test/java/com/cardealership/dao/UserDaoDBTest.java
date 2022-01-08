@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.cardealership.dao;
+package com.cardealership.dao; 
 
 import com.cardealership.TestApplicationConfiguration;
 import com.cardealership.entity.User;
