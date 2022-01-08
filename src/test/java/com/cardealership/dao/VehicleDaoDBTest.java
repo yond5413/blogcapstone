@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package com.cardealership.dao;
-
+ 
 import com.cardealership.TestApplicationConfiguration;
 import com.cardealership.entity.Vehicle;
 import java.util.List;
