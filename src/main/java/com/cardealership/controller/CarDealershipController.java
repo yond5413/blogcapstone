@@ -1,4 +1,4 @@
-package com.mthree.cardealership.controller;
+package com.cardealership.controller;
 
 import java.util.List;
 
@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mthree.cardealership.entity.Sale;
-import com.mthree.cardealership.entity.Vehicle;
-import com.mthree.cardealership.service.CarDealershipServiceLayer;
+import com.cardealership.entity.Sale;
+import com.cardealership.entity.Vehicle;
+import com.cardealership.service.CarDealershipServiceLayer;
 
 @RestController
 @RequestMapping("/api")
