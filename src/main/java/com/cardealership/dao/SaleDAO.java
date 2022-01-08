@@ -2,7 +2,7 @@ package com.cardealership.dao;
 
 import java.util.List;
 
-import com.mthree.cardealership.entity.Sale;
+import com.cardealership.entity.Sale;
 
 public interface SaleDAO {
 	
