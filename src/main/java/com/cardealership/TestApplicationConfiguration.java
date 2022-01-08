@@ -1,4 +1,4 @@
-package com.mthree.cardealership;
+package com.cardealership;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
