@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mthree.cardealership.service;
+package com.cardealership.service;
 
-import com.mthree.cardealership.TestApplicationConfiguration;
-import com.mthree.cardealership.entity.Sale;
-import com.mthree.cardealership.entity.Vehicle;
+import com.cardealership.TestApplicationConfiguration;
+import com.cardealership.entity.Sale;
+import com.cardealership.entity.Vehicle;
 import java.util.List;
 import org.junit.After;
 import org.junit.AfterClass;
